@@ -58,18 +58,3 @@ var Time = new Date().getHours();
 
     }
 }
-
-
-//     if(Time < 12){
-//         if (document.body) {
-//             document.body.background = "mnsun.gif";
-//         }
-// else if (Time >= 12 && Time <= 17)
-//     if (document.body){
-//       document.body.background = "noon.gif";
-//     }else if (Time >= 17 && Time <= 24){
-//
-//       if (document.body){
-//         document.body.background = "night.gif";
-//       }
-//     }
